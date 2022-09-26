@@ -1,0 +1,3 @@
+#Me pregunta el nombre y me responde saludándome
+a=input("Número1:")
+b=input("Número2:")
