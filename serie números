@@ -1,3 +1,4 @@
-#Me pregunta el nombre y me responde saludándome
-a=input("Número1:")
-b=input("Número2:")
+#Formación de un número a partir de dos
+a=input("Numero 1:")
+b=input("Numero 2:")
+print(a+b)
