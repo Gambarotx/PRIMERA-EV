@@ -1,0 +1,9 @@
+#Este lindo programa sirve para
+#cañcular la media de 3 números
+def calcular media():
+n1=input(n1=)
+n2=input(n2=)
+n3=input(n3=)
+suma=n1+n2+n3
+media=(suma)/3
+print(media)
