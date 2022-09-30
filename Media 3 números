@@ -1,8 +1,0 @@
-#Este precioso programa sirve para
-#cañcular la media de 3 números
-a=int(input("primera nota:"))
-b=int(input("segunda nota:"))
-c=int(input("tercera nota:"))
-suma=(a+b+c)
-media=(suma/3)
-print(media)
