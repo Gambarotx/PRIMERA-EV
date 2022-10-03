@@ -1,0 +1,12 @@
+#BUCLES: tabla de multiplicar
+
+def tabla_multiplicar():
+  tabla=input("dime la tabla")
+  suma=0 
+  for cont in range
+    num=int(input("dime un número:"))
+    suma=num+suma
+  print(suma)
+   
+   
+bucle_1 ()
