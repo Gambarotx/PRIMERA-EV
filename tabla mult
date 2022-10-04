@@ -1,12 +1,8 @@
-#BUCLES: tabla de multiplicar
+#ESCRIBIMOS LA TABLA QUE ELIJA EL USUARIO
 
-def tabla_multiplicar():
-  tabla=input("dime la tabla")
-  suma=0 
-  for cont in range
-    num=int(input("dime un número:"))
-    suma=num+suma
-  print(suma)
-   
-   
-bucle_1 ()
+def tabla_1():
+    ntabla=input("Dime el numero de tabla:")
+    for cont in range(1,11):
+        print(str(ntabla)+"*"+str(cont)+"="+str(int(ntabla)*cont))
+        
+tabla_1()
