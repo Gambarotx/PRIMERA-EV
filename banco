@@ -1,0 +1,10 @@
+def banco_4():
+    total=int(input("Dime cuanto dinero vas a meter: "))
+    print ("has introducido")
+    print (total)
+    if (total>20):
+        print("que puto millonario")
+    if (total<20):
+        print("que puto pobre")
+        
+banco_4()
