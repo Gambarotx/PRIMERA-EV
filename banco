@@ -2,9 +2,11 @@ def banco_4():
     total=int(input("Dime cuanto dinero vas a meter: "))
     print ("has introducido")
     print (total)
-    if (total>20):
-        print("que puto millonario")
-    if (total<20):
-        print("que puto pobre")
-        
+    saco=int(input("Cuanto dinero quieres sacar:"))
+    print ("te queda")
+    print (total-saco)
+    respuesta=int(input( "queires sacar algo mas: "))
+    if(respuesta="si"):
+    print("me la suda")
+    
 banco_4()
