@@ -5,8 +5,9 @@ def banco_4():
     saco=int(input("Cuanto dinero quieres sacar:"))
     print ("te queda")
     print (total-saco)
-    respuesta=int(input( "queires sacar algo mas: "))
-    if(respuesta="si"):
-    print("me la suda")
-    
+    respuesta=input( "queires sacar algo mas: ")
+    if(respuesta=="si"):
+        print("me la suda")
+
 banco_4()
+
